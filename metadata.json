@@ -1,0 +1,6 @@
+{
+  "name": "EIXO - Gestão Financeira",
+  "description": "Programa de gestão financeira familiar com automação de orçamentos mensais, reservas familiares, gráficos intuitivos, temas personalizáveis e exportação em PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
